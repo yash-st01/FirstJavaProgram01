@@ -1,5 +1,4 @@
 public class PersonalDetails {
-
     public static void main(String[] args) {
 
         //      PersonalDetails
@@ -10,7 +9,6 @@ public class PersonalDetails {
         String securityCode    = "29.19";
         String eligibleForVote = "True";
         String grade           = "A";
-
 
 
         System.out.println("Name              : " + name);

@@ -3,7 +3,6 @@ public class Calculator1 {
     static int a = 90;
     static int b = 10;
 
-
     public static void main(String[] args) {
 
          int total  =a+b;
